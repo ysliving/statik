@@ -31,7 +31,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/rakyll/statik/fs"
+	"github.com/ysliving/statik/fs"
 )
 
 const nameSourceFile = "statik.go"
