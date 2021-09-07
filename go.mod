@@ -1,3 +1,3 @@
-module github.com/ysliving/statik
+module github.com/rakyll/statik
 
 go 1.12
